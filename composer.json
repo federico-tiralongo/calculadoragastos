@@ -1,0 +1,9 @@
+{
+    "name": "vscodephp/federicotiralongo",
+    "autoload": {
+        "psr-4": {
+            "Vscodephp\\Federicotiralongo\\": "src/"
+        }
+    },
+    "require": {}
+}
